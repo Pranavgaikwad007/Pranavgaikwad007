@@ -3,114 +3,191 @@
 
 # PRANAV GAIKWAD
 
-### CSE (AI/ML) STUDENT | DEVELOPER | BUILDER
+### COMPUTER SCIENCE & ENGINEERING | AI & ML
+
+**Developer · AI/ML Explorer · Creative Problem Solver**
 
 *Building my own universe, one project at a time.*
 
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Software-Development-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/Always-Learning-E11D2E?style=flat-square" />
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranavgaikwad007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-gaikwad-422045382/)
+
+📍 Pune, Maharashtra, India
 
 </div>
 
 ---
 
-## 01. BEHIND THE SCENES
+## 01 — ABOUT ME
 
-Hey! I'm **Pranav Gaikwad**, a second-year Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at **MIT Academy of Engineering, Pune**.
+Hey! I'm **Pranav Gaikwad**, a second-year B.Tech student pursuing Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at **MIT Academy of Engineering (MITAOE), Pune**.
 
-I'm passionate about exploring technology, building meaningful projects, and turning creative ideas into practical solutions.
+I'm someone who enjoys exploring the intersection of technology, creativity, and problem-solving. From experimenting with AI-powered applications to developing software products and participating in hackathons, I love turning ideas into something meaningful.
 
-- Exploring AI, Machine Learning and Generative AI.
-- Building software and experimenting with full-stack development.
-- Participating in hackathons and collaborative projects.
-- Interested in product development and creative problem-solving.
-- Constantly learning, building and improving.
+My journey is driven by curiosity and the desire to build things that solve real-world problems.
+
+- Exploring Artificial Intelligence, Machine Learning and Generative AI.
+- Developing software applications and exploring full-stack technologies.
+- Experimenting with computer vision, automation and intelligent systems.
+- Participating in hackathons, competitions and collaborative projects.
+- Interested in product development, startups and emerging technologies.
+- Also passionate about creative design, branding and visual storytelling.
+
+**My philosophy:** Learn something new. Build something useful. Improve every day.
 
 ---
 
-## 02. MY TECH STACK
+## 02 — TECHNICAL ARSENAL
 
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-**Web Development**
+### AI / Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
+### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
-**AI / ML**
+### Backend Development
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
+![Alembic](https://img.shields.io/badge/Alembic-333333?style=flat-square)
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-2563EB?style=flat-square)
-![YOLO](https://img.shields.io/badge/YOLO-111827?style=flat-square)
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Tools**
+### Cloud & Deployment
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
+### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### Creative & Analytics
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+
+### Optimization & Operations Research
+![OR Tools](https://img.shields.io/badge/Google_OR--Tools-4285F4?style=flat-square&logo=google&logoColor=white)
+
+`CP-SAT` · `Constraint Optimization`
 
 ---
 
-## 03. MISSIONS & BUILDS
+## 03 — PROJECTS & MISSIONS
 
-Some of the ideas and projects I'm exploring:
+I enjoy working on projects that combine technology with practical problem-solving.
 
-| Project | Focus |
+### Featured Development Projects
+
+| Project | Description |
 |---|---|
-| [PROOF](https://github.com/Pranavgaikwad007/PROOF) | Evidence-driven AI coding assessment |
-| [SwasthyaNet](https://github.com/Pranavgaikwad007/SwasthyaNet) | AI-enabled rural healthcare concept |
-| [SafeRide-AI](https://github.com/Pranavgaikwad007/SafeRide-AI) | Helmet detection and road safety |
-| [Sanjeevani](https://github.com/Pranavgaikwad007/Sanjeevani) | Humanitarian-focused project |
+| [PROOF](https://github.com/Pranavgaikwad007/PROOF) | Evidence-driven AI coding assessment platform focused on evaluating the developer's problem-solving process, not just final code. |
+| [SwasthyaNet](https://github.com/Pranavgaikwad007/SwasthyaNet) | AI-enabled rural healthcare concept focused on improving access to preliminary health guidance. |
+| [SafeRide AI](https://github.com/Pranavgaikwad007/SafeRide-AI) | Computer vision-based helmet detection and road safety project. |
+| [Sanjeevani](https://github.com/Pranavgaikwad007/Sanjeevani) | Humanitarian-focused project. |
 
-More projects and detailed documentation coming soon.
+### Other Projects & Explorations
 
----
+- **SmartParks** — Smart parking management system concept.
+- **MindGuard AI** — Mental wellness-oriented mood classification concept.
+- **Animal Detection System** — Animal detection and information using computer vision.
+- **FoodBridge** — Connecting surplus food providers with organizations.
+- **The Last-Mile Spoilage Trap** — Exploring better coordination of perishable aid delivery.
+- **3D-Printed Cable Organizer** — Product design and prototyping.
+- **Biodegradable Plant Pots** — Sustainable material and product experimentation.
+- **AI-Based Document Screening** — Exploring identity and document verification.
+- **AI Hypoglycemia Prediction** — Healthcare-focused hackathon concept.
 
-## 04. ACHIEVEMENTS
-
-- 🏆 Winner — MITAOE First-Year Logo Design Competition.
-- 🎨 Winning logo selected as the official Student Association of AIML logo.
-- 🎓 Cisco Virtual Internship — Completed, October 2026.
-
----
-
-## 05. COMMUNITIES
-
-- ASTRA — CSE (AI/ML) Student Association
-- AAAI Student Chapter
-- AlgoVeda
+*Project descriptions and implementation status will be refined against each repository before being treated as final.*
 
 ---
 
-## 06. CURRENTLY EXPLORING
+## 04 — ACHIEVEMENTS & RECOGNITION
 
-- Artificial Intelligence & Machine Learning
-- Generative AI
-- Full-Stack Development
-- Cloud Technologies
-- Building practical software products
+- 🏆 **Winner — MITAOE First-Year Logo Design Competition**
+  - Winning design selected as the official Student Association of AIML logo.
+- 🎓 **Cisco Virtual Internship**
+  - Completed in October 2026.
 
 ---
+
+## 05 — COMMUNITIES & INVOLVEMENT
+
+- **ASTRA** — CSE (AI/ML) Student Association.
+- **AAAI Student Chapter** — Student community involvement.
+- **AlgoVeda** — Technical community and learning.
+
+I enjoy contributing to student activities, creative branding, design, and collaborative initiatives.
+
+---
+
+## 06 — GITHUB STATISTICS
 
 <div align="center">
 
-### FIND ME ACROSS THE MULTIVERSE
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pranavgaikwad007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E11D2E&icon_color=2563EB&text_color=E5E7EB&ring_color=7C3AED" />
 
-[GitHub](https://github.com/Pranavgaikwad007) • [LinkedIn](https://www.linkedin.com/in/pranav-gaikwad-422045382/)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavgaikwad007&layout=compact&hide_border=true&bg_color=0D1117&title_color=E11D2E&text_color=E5E7EB" />
 
-*Building. Learning. Creating.*
+<img src="https://streak-stats.demolab.com?user=Pranavgaikwad007&hide_border=true&background=0D1117&ring=7C3AED&fire=E11D2E&currStreakLabel=2563EB&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" />
+
+</div>
+
+---
+
+## 07 — WHAT'S NEXT?
+
+- Deepening my AI/ML foundations.
+- Building more complete full-stack applications.
+- Exploring Generative AI and intelligent agents.
+- Learning cloud infrastructure and scalable systems.
+- Collaborating on meaningful open-source and hackathon projects.
+
+---
+
+## 08 — CONNECT WITH ME
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-gaikwad-422045382/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Pranavgaikwad007)
+
+**Instagram · LinkedIn · GitHub · LeetCode**
+
+*Building. Learning. Creating my own universe.*
 
 </div>
