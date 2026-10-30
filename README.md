@@ -187,6 +187,17 @@ I enjoy contributing to student activities, creative branding, design, and colla
 
 ---
 
+<h2 align="center">03 — CONTRIBUTION ACTIVITY</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Pranavgaikwad007/Pranavgaikwad007/output/github-contribution-grid-snake.svg"
+    alt="Pranav Gaikwad GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
+
+
 ## 07 — WHAT'S NEXT?
 
 - Deepening my AI/ML foundations.
