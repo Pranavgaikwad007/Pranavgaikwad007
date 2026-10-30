@@ -4,9 +4,7 @@ name: Generate Contribution Snake
 on:
   schedule:
     - cron: "0 0 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
       - main
@@ -20,14 +18,14 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate black and red contribution snake
+      - name: Generate black grid with red snake
         uses: Platane/snk@v3
         with:
           github_user_name: Pranavgaikwad007
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23FF1A1A&color_dots=%23080808,%23080808,%23080808,%23080808,%23080808
+            dist/github-contribution-grid-snake.svg?color_snake=%23FF0000&color_dots=%23000000,%23000000,%23000000,%23000000,%23000000
 
-      - name: Publish contribution animation
+      - name: Publish animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
