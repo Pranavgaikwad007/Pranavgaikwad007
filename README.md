@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# PRANAV GAikwad
+# PRANAV GAIKWAD
 
 ### CSE (AI/ML) STUDENT | DEVELOPER | BUILDER
 
