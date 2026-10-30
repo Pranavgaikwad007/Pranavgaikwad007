@@ -188,24 +188,12 @@ I enjoy contributing to student activities, creative branding, design, and colla
 ---
 
 
-<!-- CONTRIBUTION ACTIVITY -->
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/03-CONTRIBUTION%20ACTIVITY-D71920?style=for-the-badge&labelColor=080808"/>
-</h2>
-
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Pranavgaikwad007/Pranavgaikwad007/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Pranavgaikwad007/Pranavgaikwad007/output/github-contribution-grid-snake.svg?v=3"
     width="100%"
-    alt="GitHub Contribution Snake"
+    alt="White contribution snake with red contribution grid"
   />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Pranavgaikwad007">
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20ACTIVITY-D71920?style=for-the-badge&labelColor=080808"/>
-  </a>
 </p>
 
 
