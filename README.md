@@ -1,4 +1,12 @@
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Pranavgaikwad007/Pranavgaikwad007/main/assets/spiderverse-banner.gif"
+    alt="Pranav Gaikwad - Animated Spider-Verse Banner"
+    width="100%"
+  />
+</p>
+
 <div align="center">
 
 # PRANAV GAIKWAD
