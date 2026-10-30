@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/spiderverse-banner.png" width="100%" alt="Pranav Gaikwad - Spider-Verse Developer Banner">
+</p>
 <div align="center">
 
 # PRANAV GAIKWAD
