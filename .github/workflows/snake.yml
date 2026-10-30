@@ -18,12 +18,12 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate black grid with red snake
+      - name: Generate white snake with black and red grid
         uses: Platane/snk@v3
         with:
           github_user_name: Pranavgaikwad007
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23FF0000&color_dots=%23000000,%23000000,%23000000,%23000000,%23000000
+            dist/github-contribution-grid-snake.svg?color_snake=%23FFFFFF&color_dots=%23000000,%23330000,%23660000,%23CC0000,%23FF3333
 
       - name: Publish animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
