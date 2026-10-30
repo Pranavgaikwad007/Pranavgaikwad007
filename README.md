@@ -21,24 +21,39 @@
 
 ---
 
-## 01 — ABOUT ME
 
-Hey! I'm **Pranav Gaikwad**, a second-year B.Tech student pursuing Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at **MIT Academy of Engineering (MITAOE), Pune**.
+<h2 align="center">
+  <img src="https://img.shields.io/badge/01-ABOUT%20ME-D71920?style=for-the-badge&labelColor=080808" />
+</h2>
 
+<p>
+Hey! I'm <strong>Pranav Gaikwad</strong>, a second-year B.Tech student pursuing Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at <strong>MIT Academy of Engineering (MITAOE), Pune</strong>.
+</p>
+
+<p>
 I'm someone who enjoys exploring the intersection of technology, creativity, and problem-solving. From experimenting with AI-powered applications to developing software products and participating in hackathons, I love turning ideas into something meaningful.
+</p>
 
+<p>
 My journey is driven by curiosity and the desire to build things that solve real-world problems.
+</p>
 
-- Exploring Artificial Intelligence, Machine Learning and Generative AI.
-- Developing software applications and exploring full-stack technologies.
-- Experimenting with computer vision, automation and intelligent systems.
-- Participating in hackathons, competitions and collaborative projects.
-- Interested in product development, startups and emerging technologies.
-- Also passionate about creative design, branding and visual storytelling.
+<ul>
+  <li>Exploring Artificial Intelligence, Machine Learning and Generative AI.</li>
+  <li>Developing software applications and exploring full-stack technologies.</li>
+  <li>Experimenting with computer vision, automation and intelligent systems.</li>
+  <li>Participating in hackathons, competitions and collaborative projects.</li>
+  <li>Interested in product development, startups and emerging technologies.</li>
+  <li>Also passionate about creative design, branding and visual storytelling.</li>
+</ul>
 
-**My philosophy:** Learn something new. Build something useful. Improve every day.
+<h3 align="center">
+  <img src="https://img.shields.io/badge/MY%20PHILOSOPHY-D71920?style=for-the-badge&labelColor=080808" />
+</h3>
 
----
+<p align="center">
+  <strong>Learn something new. Build something useful. Improve every day.</strong>
+</p>
 
 ## 02 — TECHNICAL ARSENAL
 
