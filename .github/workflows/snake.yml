@@ -20,14 +20,14 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate contribution snake
+      - name: Generate red contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: Pranavgaikwad007
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23FFFFFF&color_dots=%23262626,%235C0808,%239B1018,%23D71920,%23FFFFFF
+            dist/github-contribution-grid-snake.svg?color_snake=%23FFFFFF&color_dots=%232B0000,%235C0000,%238B0000,%23C00000,%23FF1A1A
 
-      - name: Publish contribution snake
+      - name: Publish contribution animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
