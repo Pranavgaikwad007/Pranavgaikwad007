@@ -174,30 +174,29 @@ I enjoy contributing to student activities, creative branding, design, and colla
 ---
 
 
+
 <!-- 06 — GITHUB STATISTICS -->
 <h2 align="left">06 — GITHUB STATISTICS</h2>
 <hr>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Pranavgaikwad007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF3333"
-    height="165"
-    alt="GitHub statistics"
-  />
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavgaikwad007&hide_border=true&background=0D1117&ring=FF3333&fire=FF3333&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF"
-    height="165"
-    alt="GitHub streak"
+    width="70%"
+    alt="GitHub contribution streak"
   />
 </p>
 
+<hr>
+
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Pranavgaikwad007/Pranavgaikwad007/output/github-contribution-grid-snake.svg?v=3"
+    src="https://raw.githubusercontent.com/Pranavgaikwad007/Pranavgaikwad007/output/github-contribution-grid-snake.svg?v=4"
     width="100%"
     alt="GitHub contribution snake"
   />
 </p>
+
 
 
 
