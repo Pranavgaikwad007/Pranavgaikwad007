@@ -125,34 +125,74 @@ My journey is driven by curiosity and the desire to build things that solve real
 
 ---
 
-## 03 — PROJECTS & MISSIONS
 
-I enjoy working on projects that combine technology with practical problem-solving.
+<!-- 03 — PROJECTS & MISSIONS -->
+<h2>03 — PROJECTS & MISSIONS</h2>
+<hr>
 
-### Featured Development Projects
+<p>I enjoy working on projects that combine technology with practical problem-solving.</p>
 
-| Project | Description |
-|---|---|
-| [PROOF](https://github.com/Pranavgaikwad007/PROOF) | Evidence-driven AI coding assessment platform focused on evaluating the developer's problem-solving process, not just final code. |
-| [SwasthyaNet](https://github.com/Pranavgaikwad007/SwasthyaNet) | AI-enabled rural healthcare concept focused on improving access to preliminary health guidance. |
-| [SafeRide AI](https://github.com/Pranavgaikwad007/SafeRide-AI) | Computer vision-based helmet detection and road safety project. |
-| [Sanjeevani](https://github.com/Pranavgaikwad007/Sanjeevani) | Humanitarian-focused project. |
+<h3>Featured Development Projects</h3>
 
-### Other Projects & Explorations
+<table width="100%">
+  <tr>
+    <td width="30%">
+      <h3>01. PROOF</h3>
+      <a href="https://github.com/Pranavgaikwad007">
+        <img src="https://img.shields.io/badge/PROJECT-AI%20ASSESSMENT-FF3333?style=for-the-badge&labelColor=0D1117" />
+      </a>
+    </td>
+    <td>
+      Evidence-driven AI coding assessment platform focused on evaluating the developer's problem-solving process, not just final code.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>02. SwasthyaNet</h3>
+      <a href="https://swasthyanet-xi.vercel.app/">
+        <img src="https://img.shields.io/badge/LIVE-DEMO-FF3333?style=for-the-badge&labelColor=0D1117" />
+      </a>
+    </td>
+    <td>
+      AI-enabled rural healthcare concept focused on improving access to preliminary health guidance.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>03. SafeRide AI</h3>
+      <img src="https://img.shields.io/badge/FOCUS-COMPUTER%20VISION-FF3333?style=for-the-badge&labelColor=0D1117" />
+    </td>
+    <td>
+      Computer vision-based helmet detection and road safety project.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>04. Sanjeevani</h3>
+      <img src="https://img.shields.io/badge/FOCUS-SOCIAL%20IMPACT-FF3333?style=for-the-badge&labelColor=0D1117" />
+    </td>
+    <td>
+      Humanitarian-focused project.
+    </td>
+  </tr>
+</table>
 
-- **SmartParks** — Smart parking management system concept.
-- **MindGuard AI** — Mental wellness-oriented mood classification concept.
-- **Animal Detection System** — Animal detection and information using computer vision.
-- **FoodBridge** — Connecting surplus food providers with organizations.
-- **The Last-Mile Spoilage Trap** — Exploring better coordination of perishable aid delivery.
-- **3D-Printed Cable Organizer** — Product design and prototyping.
-- **Biodegradable Plant Pots** — Sustainable material and product experimentation.
-- **AI-Based Document Screening** — Exploring identity and document verification.
-- **AI Hypoglycemia Prediction** — Healthcare-focused hackathon concept.
+<h3>Other Projects & Explorations</h3>
 
-*Project descriptions and implementation status will be refined against each repository before being treated as final.*
+<ul>
+  <li><b>SmartParks</b> — Smart parking management system concept.</li>
+  <li><b>MindGuard AI</b> — Mental wellness-oriented mood classification concept.</li>
+  <li><b>Animal Detection System</b> — Animal detection and information using computer vision.</li>
+  <li><b>FoodBridge</b> — Connecting surplus food providers with organizations.</li>
+  <li><b>The Last-Mile Spoilage Trap</b> — Exploring better coordination of perishable aid delivery.</li>
+  <li><b>3D-Printed Cable Organizer</b> — Product design and prototyping.</li>
+  <li><b>Biodegradable Plant Pots</b> — Sustainable material and product experimentation.</li>
+  <li><b>AI-Based Document Screening</b> — Exploring identity and document verification.</li>
+  <li><b>AI Hypoglycemia Prediction</b> — Healthcare-focused hackathon concept.</li>
+</ul>
 
----
+<p><i>Project descriptions and implementation status will be refined against each repository before being treated as final.</i></p>
+
 
 ## 04 — ACHIEVEMENTS & RECOGNITION
 
