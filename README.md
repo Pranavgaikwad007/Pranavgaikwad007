@@ -173,28 +173,32 @@ I enjoy contributing to student activities, creative branding, design, and colla
 
 ---
 
-## 06 — GITHUB STATISTICS
 
-<div align="center">
+<!-- 06 — GITHUB STATISTICS -->
+<h2 align="left">06 — GITHUB STATISTICS</h2>
+<hr>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pranavgaikwad007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E11D2E&icon_color=2563EB&text_color=E5E7EB&ring_color=7C3AED" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavgaikwad007&layout=compact&hide_border=true&bg_color=0D1117&title_color=E11D2E&text_color=E5E7EB" />
-
-<img src="https://streak-stats.demolab.com?user=Pranavgaikwad007&hide_border=true&background=0D1117&ring=7C3AED&fire=E11D2E&currStreakLabel=2563EB&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" />
-
-</div>
-
----
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Pranavgaikwad007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF3333"
+    height="165"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavgaikwad007&hide_border=true&background=0D1117&ring=FF3333&fire=FF3333&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    height="165"
+    alt="GitHub streak"
+  />
+</p>
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Pranavgaikwad007/Pranavgaikwad007/output/github-contribution-grid-snake.svg?v=3"
     width="100%"
-    alt="White contribution snake with red contribution grid"
+    alt="GitHub contribution snake"
   />
 </p>
+
 
 
 ## 07 — WHAT'S NEXT?
