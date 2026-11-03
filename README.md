@@ -289,6 +289,12 @@ I enjoy contributing to student activities, creative branding, design, and colla
 
 </div>
 
+<br/>
+<div align="center">
+  <img src="assets/developer-universe.png" width="100%" alt="Pranav Gaikwad - Developer Universe"/>
+</div>
+<br/>
+
 <!-- ===================================================== -->
 <!-- END OF README -->
 <!-- ===================================================== -->
