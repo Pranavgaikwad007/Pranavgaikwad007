@@ -281,7 +281,7 @@ I enjoy contributing to student activities, creative branding, design, and colla
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranavgaikwad007)
 
-**Instagram · LinkedIn · GitHub · LeetCode**
+**Instagram · LinkedIn · GitHub · **
 
 <br>
 
