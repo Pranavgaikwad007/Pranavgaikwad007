@@ -285,7 +285,7 @@ I enjoy contributing to student activities, creative branding, design, and colla
 
 <br>
 
-*Building. Learning. Creating my own universe.*
+*Building. Learning. & Creating my own universe.*
 
 </div>
 
