@@ -36,7 +36,7 @@ Hey! I'm <strong>Pranav Gaikwad</strong>, a second-year B.Tech student pursuing 
 </p>
 
 <p>
-I'm someone who enjoys exploring the intersection of technology, creativity, and problem-solving. From experimenting with AI-powered applications to developing software products and participating in hackathons, I love turning ideas into something meaningful.
+I'm someone who enjoys exploring the intersection of technology, creativity, and problem-solving. From experimenting with AI-powered applications to developing software products and participating in hackathons, I love turning ideas into something meaningful!!.
 </p>
 
 <p>
